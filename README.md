@@ -10,13 +10,13 @@
  
   
   <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+    Repositórios com minha trajetoria na programação focada em Data Science.
   </p>
   
 </div>
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/orlandojsjunior">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=orlandojsjunior&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandojsjunior&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
