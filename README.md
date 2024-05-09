@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Um Cientista de Dados apaixonado por tecnologia!
+    Um Cientista de Dados, em formação, apaixonado por tecnologia!
  
   
   <p align="center">
