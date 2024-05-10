@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-  Data Scientist em formação | Machine Learning | AI | Big Data | Python | SQL
+  Cientista de Dados em formação - Machine Learning - AI - Big Data - Python - SQL - Data Visualisation
 </h3>
 
 <div align='center'>
@@ -25,7 +25,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,python,aws,git,github,postgres,windows,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,python,aws,git,github,postgres,mysql,windows,linux&theme=dark" />
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
