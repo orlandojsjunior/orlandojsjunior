@@ -25,7 +25,9 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,python,aws,git,github,sql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,python,aws,git,github,postgres,windows,linux&theme=dark" />
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 ## About me
 
@@ -33,29 +35,9 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Em transição de carreira para me tornar um Cientista de Dados, por isso tenho buscado conhecimento especifico em [PYTHON](https://www.python.org/) com foco em Data Science nas plataformas [ALURA](https://cursos.alura.com.br/user/orlandojsjunior) e [DIO](https://www.dio.me/users/orlandojsjunior)<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Principais hard skills:  Machine Learning | AI | Big Data | Python | SQL | Linguagen R | Tableau. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Sou muito família, amo esta em casa com minha esposa e filho, amo ser marido e pai.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Sou especialista em suporte e gerenciamento de infraestrutura de TI com mais de 17 anos de experiência de atendimento ao cliente.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Sou especialista em suporte ao cliente e gerenciamento de infraestrutura de TI com mais de 17 anos de experiência.
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-## 🎬 &nbsp;My Last Youtube Videos
-
-<!-- YT LIST START -->
-
-[<img src="https://i.ytimg.com/vi/JUF7M8hRbiM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDBGWBzC3yidy6TCzMlDxTYZbyAeA" align="left" width="200" />](https://www.youtube.com/watch?v=JUF7M8hRbiM)
-&nbsp;&nbsp;
-**[▶️ Como CRIAR UM PROJETO C# no Visual Studio Code | C# DO JEITO MODERNO!](https://www.youtube.com/watch?v=JUF7M8hRbiM)**
-<br /> &nbsp;&nbsp;&nbsp;1 semana atrás
-<img align="center" width="100%" height="0" />
-
-[<img src="https://i.ytimg.com/vi/jcPpJ2tRe2g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBZYoL0nZTTGUkXeXXN3uBtYy0Xdw" align="left" width="200" />](https://www.youtube.com/watch?v=jcPpJ2tRe2g)
-&nbsp;&nbsp;
-**[▶️ COMO INSTALAR O DOTNET | C# DO JEITO MODERNO! ](https://www.youtube.com/watch?v=jcPpJ2tRe2g)**
-<br /> &nbsp;&nbsp;&nbsp;2 Semanas atrás
-<img align="center" width="100%" height="0" />
-
-<!-- YT LIST END -->
-
-learn dotnet c#? check out my channel [Veja meu Canal do Youtube.](https://www.youtube.com/@dotnetsenseidev)
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
