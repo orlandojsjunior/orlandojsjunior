@@ -2,12 +2,14 @@
 <!-- <img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/> -->
   <img height="350em" src="./.github/assets/banner.png"/>
 </div>
-
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 <h3 align="center">
   Cientista de Dados em formação | Machine Learning | AI | Big Data | Python | SQL | Linguagen R | Tableau | Data visualization
 </h3>
 
 <div align='center'>
+  
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 <div align="center">  
   
@@ -16,16 +18,15 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandojsjunior&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   
 </div>
-
 </div>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 <div><br />
-
+  
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,python,aws,git,github,postgres,mysql,windows,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,python,r,anaconda,aws,git,github,postgres,mysql,windows,docker,linux&theme=dark" />
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
