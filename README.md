@@ -1,6 +1,6 @@
 <div align="center">
 <!-- <img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/> -->
-  <img height="350em" src="./.github/assets/banner.png"/>
+  <img height="550em" src="./.github/assets/banner.png"/>
 </div>
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 <h3 align="center">
@@ -24,7 +24,7 @@
 
 <div><br/>
   
-## &nbsp;My Stack
+## My Stack
 
 <img src="https://skillicons.dev/icons?i=vscode,python,r,anaconda,aws,git,github,postgres,mysql,windows,docker,linux,&theme=dark"/>
 
@@ -45,6 +45,7 @@
 <p>
 <a href="mailto:orlandojsjunior@hotmamail.com">
 <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
+  
 </a>
 <a href="https://www.linkedin.com/in/orlandojsjunior"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
 </div>
