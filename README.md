@@ -26,7 +26,7 @@
   
 ## My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,python,r,anaconda,aws,git,github,postgres,mysql,windows,docker,linux,&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,python,r,anaconda,ai,aws,azure,git,github,postgres,mysql,windows,docker,linux,&theme=dark"/>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
@@ -55,6 +55,8 @@
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   <br>
    - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
+  <br>
+   - Skills on your GitHub - tandpfun <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a>
   <br>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
 </details>
