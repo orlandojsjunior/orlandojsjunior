@@ -26,7 +26,7 @@
   
 ## My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,python,anaconda,pytorch,r,sqlite,postgres,mysql,mongodb,git,github,aws,gcp,azure,linux,windows,&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,python,anaconda,pytorch,r,sqlite,postgres,mysql,mongodb,git,github,aws,gcp,azure,linux,windows,&theme=dark"/>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
