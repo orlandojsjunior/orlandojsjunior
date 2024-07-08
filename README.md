@@ -30,7 +30,7 @@
   
 ## My Stack
 
-<img src="https://skillicons.dev/icons?i=python,anaconda,sqlite,postgres,mysql,mongodb,r,pytorch,git,github,aws,gcp,azure,linux,windows,vscode,visualstudio&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,anaconda,sqlite,postgres,mysql,mongodb,r,pytorch,git,github,aws,windows,vscode,visualstudio&theme=dark"/>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
