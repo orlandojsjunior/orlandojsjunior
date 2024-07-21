@@ -5,7 +5,7 @@
   
 </div>
 
-<!-- <img src="./.github/assets/lineBar.png" width="100%" height="8px"/> -->
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
   
 <h3 align="center">
   Cientista de Dados em formação • Python • SQL • Linguagen R • Machine Learning • AI • Big Data • Data visualization
