@@ -21,7 +21,13 @@
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandojsjunior&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   
+  
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orlandojsjunior&theme=dark&background=0d1117&border=fff0&stroke=80F7D4&ring=9d00ff&fire=9d00ff&currStreakNum=80F7D4&sideNums=80F7D4&currStreakLabel=80F7D4&sideLabels=80F7D4&dates=80F7D4" width="49%" height="195px" />
+</div>
+
 </div>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
