@@ -36,7 +36,7 @@
   
 ## My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,python,anaconda,sqlite,postgres,mysql,git,github,aws,windows,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,python,anaconda,sqlite,postgres,mysql,git,github,aws,windows,linux&theme=dark"/>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
