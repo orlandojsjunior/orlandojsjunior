@@ -8,7 +8,7 @@
 <!-- <img src="./.github/assets/lineBar.png" width="100%" height="8px"/> -->
   
 <h3 align="center">
-  Engenheiro / Cientista de Dados • Python • SQL • Machine Learning • AI • Big Data • Data Visualization
+Cientista de Dados • Python • SQL • Machine Learning • AI • Big Data • Data Visualization
 </h3>
 
 <div align='center'>
