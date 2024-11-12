@@ -8,7 +8,7 @@
 <!-- <img src="./.github/assets/lineBar.png" width="100%" height="8px"/> -->
   
 <h3 align="center">
-Python • SQL • Machine Learning • AI • Big Data • Data Visualization • Modelagem de Dados • Pipeline de Dados - POO, ETL e Airflow
+Python • SQL • Cloud computing AWS • Machine Learning • AI • Big Data • Data Visualization • Modelagem de Dados • Pipeline de Dados - POO, ETL e Airflow
 </h3>
 
 <div align='center'>
