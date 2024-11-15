@@ -8,7 +8,7 @@
 <!-- <img src="./.github/assets/lineBar.png" width="100%" height="8px"/> -->
   
 <h3 align="center">
-Python • SQL • Cloud AWS • AI • Oracle Generative AI • Oracle ML services • Big Data • Modelagem de Dados • Pipeline de Dados - POO, ETL e Airflow
+Python • SQL • Cloud AWS • AI • Big Data • Modelagem de Dados • Pipeline de Dados (POO, ETL e Airflow) • LGPD
 </h3>
 
 <div align='center'>
