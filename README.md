@@ -8,7 +8,7 @@
 <!-- <img src="./.github/assets/lineBar.png" width="100%" height="8px"/> -->
   
 <h3 align="center">
-Python • SQL • Cloud AWS • AI • Big Data • Modelagem de Dados • Pipeline de Dados • ETL • LGPD
+Python • PPO • SQL e NoSQL  • Cloud AWS • AI • Big Data • Modelagem de Dados • Pipeline de Dados - ETL • Airflow • LGPD
 </h3>
 
 <div align='center'>
@@ -44,7 +44,7 @@ Python • SQL • Cloud AWS • AI • Big Data • Modelagem de Dados • Pipe
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Meu nome é Orlando Junior e atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU, localizada em Campina Grande, Paraíba. Estou em uma fase de transição de carreira, buscando aprimorar minhas habilidades e conhecimentos em áreas específicas.<br/>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Atualmente, estou em transição para a área de Engenharia de Dados, aplicando minha expertise em Python, SQL, Cloud AWS, [Inteligência Artificial](https://catalog-education.oracle.com/ords/certview/sharebadge?id=61B339CA3932731E3F4D8B073264E65EEAB408BB3C8FB92235F82E9A5BD7F221), Big Data, Modelagem de Dados e Pipelines de Dados - ETL e Airflow, com o objetivo de resolver problemas reais e criar soluções inovadoras. Tenho experiência em prática em projetos e sempre me dedico ao aprendizado contínuo e à adaptação às necessidades das equipes e clientes. Além disso, estou aproveitando as plataformas [ALURA](https://cursos.alura.com.br/user/orlandojsjunior) e [ADA](https://comunidade.ada.tech/)  e [Escola da Nuvem](https://escoladanuvem.org/) para aprofundar meus conhecimentos nessas áreas.<br/>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas principais hard skills: Python • SQL • Cloud AWS • AI • Big Data • Modelagem de Dados • Pipeline de Dados • ETL • LGPD<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas principais hard skills: Python • PPO • SQL e NoSQL  • Cloud AWS • AI • Big Data • Modelagem de Dados • Pipeline de Dados - ETL • Airflow • LGPD<br />
 <!-- - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Sou muito família, amo esta em casa com minha esposa e filho, amo ser marido e pai.<br /> 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Quanto a minha experiência profissional, eu sou especialista em suporte e gerenciamento de infraestrutura de TI com mais de 17 anos de experiência. -->
 
