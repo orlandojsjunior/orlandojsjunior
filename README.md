@@ -36,7 +36,7 @@ Python • PPO • SQL e NoSQL  • Cloud AWS • AI • Big Data • Modelagem 
   
 ## My Stack
 
-<img src="https://skillicons.dev/icons?i=python,postgres,sqlite,mongodb,aws,vscode,pycharm,git,github,anaconda,windows,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,anaconda,postgres,sqlite,mongodb,aws,vscode,pycharm,git,github,windows,linux&theme=dark"/>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
