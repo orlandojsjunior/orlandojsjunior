@@ -8,7 +8,7 @@
 <!-- <img src="./.github/assets/lineBar.png" width="100%" height="8px"/> -->
   
 <h3 align="center">
-Python • POO • SQL e NoSQL  • Cloud AWS • AI • Big Data • Modelagem de Dados • Pipeline de Dados - ETL • Airflow • LGPD
+Python • SQL e NoSQL  • Cloud AWS • AI • Big Data • Modelagem de Dados • Pipeline de Dados - ETL • Airflow • LGPD
 </h3>
 
 <div align='center'>
