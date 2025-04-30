@@ -44,18 +44,17 @@ Analista Cloud | 2x AWS Certified | Azure | Inteligência Artificial | Python | 
 
 <div align="justify">
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá, meu nome é Orlando Junior, sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Maurício de Nassau (UNINASSAU), com mais de 17 anos de experiência consolidada em gerenciamento de infraestrutura de TI, redes de computadores e suporte ao cliente. Minha trajetória profissional é marcada por um comprometimento constante com a busca de novos desafios e pelo aperfeiçoamento contínuo.<br/>
+-  Olá, meu nome é Orlando Junior, sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Maurício de Nassau (UNINASSAU), com mais de 17 anos de experiência consolidada em gerenciamento de infraestrutura de TI, redes de computadores e suporte ao cliente. Minha trajetória profissional é marcada por um comprometimento constante com a busca de novos desafios e pelo aperfeiçoamento contínuo.<br/>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Recentemente, me graduei no programa AWS re/Start e conquistei a [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6fb0284c-1c5b-4c45-9d11-1a8d0a807e51), onde me especializei na implementação de estratégias de migração para a Cloud AWS, priorizando a redução de custos e o aumento de desempenho.<br/>
+-  Recentemente, me graduei no programa AWS re/Start e conquistei a [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6fb0284c-1c5b-4c45-9d11-1a8d0a807e51), onde me especializei na implementação de estratégias de migração para a Cloud AWS, priorizando a redução de custos e o aumento de desempenho.<br/>
 
-- Enquanto isso, paralelamente, estou intensivamente dedicado ao estudo da Engenharia de Dados com especialização em Cloud AWS, aprimorando minhas habilidades em:
+- Enquanto isso, paralelamente, estou intensivamente dedicado aos estudos para aprimorar minhas habilidades em:
 
   - Python e SQL para análise e manipulação de dados.
   - Modelagem de dados para otimização de processos.
-  - Ferramentas de ETL (Extract, Transform, Load) e Airflow para orquestração de workflows.
   - Bancos de Dados relacionais e não relacionais.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas principais hard skills: Engenharia de dados • Cloud AWS • AI • Python • SQL e NoSQL • Pipeline de Dados • ETL • Airflow • Git • GitHub • Arquitetura de banco de dados • Modelagem de Dados • Banco de Dados • SGBD’s • Windows • Linux • CLI • PowerShell • Bash • Segurança em Cloud • Gerência de Configuração • Arquitetura de Software • Programação Orientada a Objetos • Levantamento de requisitos • Análise de Sistemas • Virtualização • Administração de Servidores • Gestão de Projetos de TI • Análise de Dados • Visualização de Dados • Integração de APIs • VSCode • PyCharm • LGPD.<br/>
+-  Minhas principais hard skills: Engenharia de dados • Cloud AWS • AI • Python • SQL e NoSQL • Pipeline de Dados • ETL • Airflow • Git • GitHub • Arquitetura de banco de dados • Modelagem de Dados • Banco de Dados • SGBD’s • Windows • Linux • CLI • PowerShell • Bash • Segurança em Cloud • Gerência de Configuração • Arquitetura de Software • Programação Orientada a Objetos • Levantamento de requisitos • Análise de Sistemas • Virtualização • Administração de Servidores • Gestão de Projetos de TI • Análise de Dados • Visualização de Dados • Integração de APIs • VSCode • PyCharm • LGPD.<br/>
 
 </div>
 
