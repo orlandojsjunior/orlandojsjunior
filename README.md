@@ -8,7 +8,7 @@
 <!-- <img src="./.github/assets/lineBar.png" width="100%" height="8px"/> -->
   
 <h3 align="center">
-Python • SQL e NoSQL  • Cloud AWS • AI • Big Data • Modelagem de Dados • Pipeline de Dados - ETL • Airflow • LGPD
+Analista Cloud | 2x AWS Certified | Azure | Inteligência Artificial | Python | SQL | LGPD.
 </h3>
 
 <div align='center'>
