@@ -35,9 +35,11 @@ Especialista Cloud | AWS Certified | Azure | Inteligência Artificial | Python |
 <div><br/>
   
 ## My Stack
-
-<img src="https://skillicons.dev/icons?i=python,anaconda,postgres,sqlite,mongodb,aws,vscode,pycharm,git,github,windows,linux&theme=dark"/>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,python,postgres,sqlite,mongodb,dynamodb,vscode,pycharm,git,github,githubactions,docker,kubernetes,windows,linux&theme=dark&perline=20"/>
+  </a>
+</p>
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 ## About me
