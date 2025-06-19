@@ -8,7 +8,7 @@
 <!-- <img src="./.github/assets/lineBar.png" width="100%" height="8px"/> -->
   
 <h3 align="center">
-Especialista Cloud | 2x AWS Certified | Azure | Inteligência Artificial | Python | SQL | LGPD.
+Especialista Cloud | AWS Certified | Azure | Inteligência Artificial | Python | SQL | Compliance e LGPD.
 </h3>
 
 <div align='center'>
@@ -44,17 +44,15 @@ Especialista Cloud | 2x AWS Certified | Azure | Inteligência Artificial | Pytho
 
 <div align="justify">
 
--  Olá, meu nome é Orlando Junior, sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Maurício de Nassau (UNINASSAU), com mais de 17 anos de experiência consolidada em gerenciamento de infraestrutura de TI, redes de computadores e suporte ao cliente. Minha trajetória profissional é marcada por um comprometimento constante com a busca de novos desafios e pelo aperfeiçoamento contínuo.<br/>
+-  Pós-graduando em Cloud Computing com Inteligência Artificial pela XP Educação, possuo uma trajetória consolidada de mais de 17 anos na área de tecnologia, com ampla experiência em gerenciamento de infraestrutura de TI, redes de computadores e suporte ao cliente.
 
--  Recentemente, me graduei no programa AWS re/Start e conquistei a [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6fb0284c-1c5b-4c45-9d11-1a8d0a807e51), onde me especializei na implementação de estratégias de migração para a Cloud AWS, priorizando a redução de custos e o aumento de desempenho.<br/>
+- Essa base sólida me permite trazer uma perspectiva estratégica para projetos de Cloud Computing. Aliada às minhas certificações recentes e especializações, essa experiência me prepara para implementar soluções que impulsionam inovação e eficiência.
 
-- Enquanto isso, paralelamente, estou intensivamente dedicado aos estudos para aprimorar minhas habilidades em:
+- Recentemente, concluí o programa [AWS re/Start Graduate](https://www.credly.com/badges/3468e8d0-96dd-4481-9557-a1c66ddda3fb) e conquistei a certificação [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6fb0284c-1c5b-4c45-9d11-1a8d0a807e51), me especializando na implementação de estratégias de migração para a nuvem, com foco na redução de custos e no aumento de desempenho.
 
-  - Python e SQL para análise e manipulação de dados.
-  - Modelagem de dados para otimização de processos.
-  - Bancos de Dados relacionais e não relacionais.
+- Por isso, estou migrando para a área de Cloud Computing, buscando posições como Analista de Cloud Jr., onde possa aplicar meus conhecimentos e contribuir significativamente para projetos inovadores e desafiadores, sempre focado em entregar resultados impactantes.
 
--  Minhas principais hard skills: Engenharia de dados • Cloud AWS • AI • Python • SQL e NoSQL • Pipeline de Dados • ETL • Airflow • Git • GitHub • Arquitetura de banco de dados • Modelagem de Dados • Banco de Dados • SGBD’s • Windows • Linux • CLI • PowerShell • Bash • Segurança em Cloud • Gerência de Configuração • Arquitetura de Software • Programação Orientada a Objetos • Levantamento de requisitos • Análise de Sistemas • Virtualização • Administração de Servidores • Gestão de Projetos de TI • Análise de Dados • Visualização de Dados • Integração de APIs • VSCode • PyCharm • LGPD.<br/>
+-  Minhas principais hard skills: Cloud Computing • AWS • Azure • AI • Python • SQL e NoSQL • Pipeline de Dados • ETL • Airflow • Engenharia de Dados • Git • GitHub • Arquitetura de banco de dados • Modelagem de Dados • Banco de Dados • SGBD’s • Windows • Linux • CLI • PowerShell • Bash • Segurança em Cloud • Gerencia de Configuração • Arquitetura de Software • Programação Orientada a Objetos • Levantamento de requisitos • Análise de Sistemas • Virtualização • Administração de Servidores • Gestão de Projetos de TI • Análise de Dados • Visualização de Dados • Integração de APIs •  VSCode • PyCharmm  • Compliance e LGPD.
 
 </div>
 
@@ -80,5 +78,3 @@ Especialista Cloud | 2x AWS Certified | Azure | Inteligência Artificial | Pytho
   <br>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
 </details>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Forlandojsjunior&count_bg=%233D8EC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitantes&edge_flat=false"/></a>
